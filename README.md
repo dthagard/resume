@@ -1,6 +1,6 @@
 # Daniel Thagard
 
-[Email](mailto:dan@thagard.net) | 1.561.374.2569 | [Linkedin](https://www.linkedin.com/in/danthagard/) | [Github](https://github.com/dthagard)
+[dan@thagard.net](mailto:dan@thagard.net) | [+1-561-374-2569](tel:+15613742569) | [Linkedin](https://www.linkedin.com/in/danthagard/) | [Github](https://github.com/dthagard)
 
 I build great teams, products, and infrastructure. AMA
 
