@@ -45,7 +45,7 @@ Starting with just myself, I created an organization of about seventy engineers 
 
 ## Employment
 
-**Magic Leap** _Dania Beach/Plantation, FL_
+**Magic Leap** (_Dania Beach/Plantation, FL_)
 
 - Senior Director, Site Reliability & Core Engineering - 2019/10-Present
 - Director, Site Reliability & Core Engineering - 2019/01-2019/10
@@ -53,26 +53,26 @@ Starting with just myself, I created an organization of about seventy engineers 
 - Manager, Site Reliability - 2017/03-2018/02
 - Senior Site Reliability Engineer - 2016/07-2017/03
 
-**Citrix** _Coconut Springs, FL_
+**Citrix** (_Coconut Springs, FL_)
 
 - DevOps Engineer - 2015/06-2016/07
 
-**QQ Solutions, Inc** _Deerfield Beach, FL_
+**QQ Solutions, Inc** (_Deerfield Beach, FL_)
 
 - DevOps Team Lead - 2014/06-2015/06
 - Software Engineer - 2014/01-2014/06
 
-**EPIS, LLC** _Stuart, FL_
+**EPIS, LLC** (_Stuart, FL_)
 
 - Senior Software Developer - 2011/09-2013/12
 
-**BenTek** _Palm Beach Gardens, FL_
+**BenTek** (_Palm Beach Gardens, FL_)
 
 - Chief Information Officer - 2010/09-2011/09
 - Information Technology Director - 2007/03-2010/09
 - Information Technology Manager - 2006/06-2007/03
 
-**Florida State University** _Tallahassee, FL_
+**Florida State University** (_Tallahassee, FL_)
 
 - Online Programs & Technology Training Manager - 2004/08-2006/06
 - Systems Administrator - 2001/03-2004/08
