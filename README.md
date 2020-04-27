@@ -1,8 +1,11 @@
 # Daniel Thagard
 
-dan@thagard.net -- 1.561.374.2569 -- https://www.linkedin.com/in/danthagard/ -- https://github.com/dthagard
+dan@thagard.net | 1.561.374.2569 | https://www.linkedin.com/in/danthagard/ | https://github.com/dthagard
 
 I build great teams, products, and infrastructure. AMA
+
+- [X] Hire
+- [X] Don't not hire
 
 ---
 
@@ -22,7 +25,7 @@ I build great teams, products, and infrastructure. AMA
 
 ### Technologies
 
-* AWS, GCP, Azure, Terraform, Vault, Concourse CI, Bitbucket, Ansible, Chef, Datadog, Sentry.io, Zendesk, Superset, Pingdom, Cloudcraft, Bitbucket Pipelines, Statuspage.io, Concourse CI, Aha!, Kubernetes, Istio, Knative, StackStorm, Nexus, Github Enterprise, Gitlab,  Citrix XenMobile 9/10, Citrix Netscaler / Receiver, CohesiveFT, Slack, Icinga2, PagerDuty, SumoLogic, OneBug, OSSEC, TestKitchen, Podio, Jenkins, TFS, Scalr, Icinga, CloudStack, Eucalyptus, AWS, Azure, Graylog2, Chef, Route53, SalesForce.com, Ice, RubyMine, VisualStudio 2015, Avaya IP Office 500, LastPass, VMWare ESXi 5.5, Citrix XenServer 6.0/6.5, KVM, SQL Server 2014 Std./Ent, WCF, Entity Framework, Visual Studio 2010/2012/2013, MonoDevelop, Xamarin, Atlassian Stash, Git, FortiNet, Microsoft CRM, SourceGear Vault, Windows Server 2008, Ubuntu, Joomla, LVS/Ultramonkey, EqualLogic PS4000e, EMC AX150, MD3000i, PC6248, PC6224, PC5448, Citrix XenServer, VMWare Workstation, Eclipse, Subversion, JIRA, Confluence, Bamboo, Fisheye, Crowd, Greenhopper, Keri, XOSoft WANSync, ProFTPD, Illustrator, Zmanda, Exchange 2007, VMWare ESX, GlassFish, Tomcat, InDesign, BitDefender, Blackberry Enterprise Server, Logmein, GoToMyPC, GoToMeeting, GoToAssist, Agile methodologies including Scrum, SQL Server 2005, Netbeans, Liferay, Mitel, SIP, Watchguard, SonicWALL, TestTrack, SurroundSCM, Symantec BackupExec, Exchange 2000, Solaris, RHEL, CentOS, Gentoo, Windows XP, Oracle, MySQL, iptables, Cisco, Clariion CX300, BIND, Sophos, Citrix MetaFrame, Windows 2000, Symantec Ghost, Active Directory, RemotelyAnywhere, Dreamweaver, Photoshop, Flash, SQL Server 2000, SUS
+* AWS, GCP, Azure, Terraform, Vault, Concourse CI, Bitbucket, Ansible, Chef, Datadog, Sentry.io, Zendesk, Superset, Pingdom, Cloudcraft, Bitbucket Pipelines, Statuspage.io, Aha!, Kubernetes, Istio, Knative, StackStorm, Nexus, Github Enterprise, Gitlab,  Citrix XenMobile 9/10, Citrix Netscaler / Receiver, CohesiveFT, Slack, Icinga2, PagerDuty, SumoLogic, OneBug, OSSEC, TestKitchen, Podio, Jenkins, TFS, Scalr, Icinga, CloudStack, Eucalyptus, Graylog2, Route53, SalesForce.com, Ice, RubyMine, VisualStudio 2015, Avaya IP Office 500, LastPass, VMWare ESXi 5.5, Citrix XenServer 6.0/6.5, KVM, SQL Server 2014 Std./Ent, WCF, Entity Framework, Visual Studio 2010/2012/2013, MonoDevelop, Xamarin, Atlassian Stash, Git, FortiNet, Microsoft CRM, SourceGear Vault, Windows Server 2008, Ubuntu, Joomla, LVS/Ultramonkey, EqualLogic PS4000e, EMC AX150, MD3000i, PC6248, PC6224, PC5448, Citrix XenServer, VMWare Workstation, Eclipse, Subversion, JIRA, Confluence, Bamboo, Fisheye, Crowd, Greenhopper, Keri, XOSoft WANSync, ProFTPD, Illustrator, Zmanda, Exchange 2007, VMWare ESX, GlassFish, Tomcat, InDesign, BitDefender, Blackberry Enterprise Server, Logmein, GoToMyPC, GoToMeeting, GoToAssist, Agile methodologies including Scrum, SQL Server 2005, Netbeans, Liferay, Mitel, SIP, Watchguard, SonicWALL, TestTrack, SurroundSCM, Symantec BackupExec, Exchange 2000, Solaris, RHEL, CentOS, Gentoo, Windows XP, Oracle, MySQL, iptables, Cisco, Clariion CX300, BIND, Sophos, Citrix MetaFrame, Windows 2000, Symantec Ghost, Active Directory, RemotelyAnywhere, Dreamweaver, Photoshop, Flash, SQL Server 2000, SUS
 
 ---
 
@@ -30,7 +33,7 @@ I build great teams, products, and infrastructure. AMA
 
 ### Mixed Reality Architecture
 
-Architected, designed, and led a team to develop an application to visualize cloud infrastructure using Spatial Computing (AR/MR) using the Magic Leap One. We used a combination of Unity, C#, Terraform, Golang, and Cloud Store, and Cloud Functions to dynamically pull infrastructure from a Terraform state and show it using a directed graph. Notably, we also leveraged shared position data using an image key to share the experience real time with another user.
+Architected, designed, and led a team to develop an application to visualize cloud infrastructure using Spatial Computing (AR/MR) using the Magic Leap One. We used a combination of Unity, C#, Terraform, Golang, and Cloud Store, and Cloud Functions to dynamically pull infrastructure from a Terraform state and show it using a directed graph. We also leveraged image keys to synchronize location data and share the experience real time with another user.
 
 We presented this use case at Google Next 2019 - https://www.youtube.com/watch?v=RR07MNYudVM
 
@@ -80,7 +83,7 @@ Starting with just myself, I created an organization of about seventy engineers 
 
 * University of Florida, Masters of Business Administration
 * Barry University, BS, Information Technology
-** Graduated Summa Cum Laude, 3.975 GPA
+  * Graduated Summa Cum Laude, 3.975 GPA
 
 ### Course Work
 
