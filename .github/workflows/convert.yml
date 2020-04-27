@@ -21,7 +21,7 @@ jobs:
     - name: Upload PDF
       uses: actions/upload-artifact@master
       with:
-        name: /download/resume.pdf
+        name: resume.pdf
         path: resume.pdf
   convert_to_docx: 
     runs-on: ubuntu-latest
@@ -37,5 +37,5 @@ jobs:
     - name: Upload .docx
       uses: actions/upload-artifact@master
       with:
-        name: /download/resume.docx
+        name: resume.docx
         path: resume.docx
