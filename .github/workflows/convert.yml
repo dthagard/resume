@@ -12,16 +12,15 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 1
-    - run: mkdir -p download
     - name: Create PDF
-      uses: docker://pandoc/core:2.9
+      uses: Ender-events/pandoc@master
       with:
-        args: "-o /download/resume.pdf README.md"
+        args: "-s -o resume.pdf README.md"
     - name: Upload PDF
       uses: actions/upload-artifact@master
       with:
-        name: resume.pdf
-        path: /download
+        name: /download/resume.pdf
+        path: resume.pdf
   convert_to_docx: 
     runs-on: ubuntu-latest
     steps:
@@ -29,13 +28,12 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 1
-    - run: mkdir -p download
     - name: Create .docx
       uses: docker://pandoc/core:2.9
       with:
-        args: "-o ./download/resume.docx README.md"
+        args: "-o resume.docx README.md"
     - name: Upload .docx
       uses: actions/upload-artifact@master
       with:
-        name: resume.docx
-        path: /download
+        name: /download/resume.docx
+        path: resume.docx
