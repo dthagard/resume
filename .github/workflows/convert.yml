@@ -1,4 +1,4 @@
-name: Convert README.md to Downloadable Resume
+name: Convert README.md
 
 on:
   push:
@@ -48,6 +48,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 1
+      - run: rm -rf download
       - run: mkdir -p download
       - uses: actions/download-artifact@v1
         with:
