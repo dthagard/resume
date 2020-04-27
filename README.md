@@ -83,7 +83,7 @@ Starting with just myself, I created an organization of about seventy engineers 
 
 * University of Florida, Masters of Business Administration
 * Barry University, BS, Information Technology
-** Graduated Summa Cum Laude, 3.975 GPA
+  * Graduated Summa Cum Laude, 3.975 GPA
 
 ### Course Work
 
