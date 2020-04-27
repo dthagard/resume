@@ -3,6 +3,8 @@ name: Convert README.md to Downloadable Resume
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   convert_to_pdf: 
@@ -12,16 +14,15 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 1
-    - run: mkdir -p download
     - name: Create PDF
-      uses: docker://pandoc/core:2.9
+      uses: Ender-events/pandoc@master
       with:
-        args: "-o /download/resume.pdf README.md"
+        args: "-s -o resume.pdf README.md"
     - name: Upload PDF
       uses: actions/upload-artifact@master
       with:
         name: resume.pdf
-        path: /download
+        path: resume.pdf
   convert_to_docx: 
     runs-on: ubuntu-latest
     steps:
@@ -29,13 +30,33 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 1
-    - run: mkdir -p download
     - name: Create .docx
       uses: docker://pandoc/core:2.9
       with:
-        args: "-o ./download/resume.docx README.md"
+        args: "-o resume.docx README.md"
     - name: Upload .docx
       uses: actions/upload-artifact@master
       with:
         name: resume.docx
-        path: /download
+        path: resume.docx
+  commit_to_repo:
+    if: contains(github.ref, 'master')
+    needs: [convert_to_pdf, convert_to_docx]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - run: mkdir -p download
+      - uses: actions/download-artifact@v1
+        with:
+          name: resume.pdf
+          path: download/resume.pdf
+      - uses: actions/download-artifact@v1
+        with:
+          name: resume.docx
+          path: download/resume.docx
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
