@@ -1,0 +1,41 @@
+name: Convert README.md to Downloadable Resume
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  convert_to_pdf: 
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - run: mkdir -p download
+    - name: Create PDF
+      uses: docker://pandoc/core:2.9
+      with:
+        args: "-o /download/resume.pdf README.md"
+    - name: Upload PDF
+      uses: actions/upload-artifact@master
+      with:
+        name: resume.pdf
+        path: /download
+  convert_to_docx: 
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - run: mkdir -p download
+    - name: Create .docx
+      uses: docker://pandoc/core:2.9
+      with:
+        args: "-o ./download/resume.docx README.md"
+    - name: Upload .docx
+      uses: actions/upload-artifact@master
+      with:
+        name: resume.docx
+        path: /download
