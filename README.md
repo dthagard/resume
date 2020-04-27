@@ -35,7 +35,7 @@ I build great teams, products, and infrastructure. AMA
 
 Architected, designed, and led a team to develop an application to visualize cloud infrastructure using Spatial Computing (AR/MR) using the Magic Leap One. We used a combination of Unity, C#, Terraform, Golang, and Cloud Store, and Cloud Functions to dynamically pull infrastructure from a Terraform state and show it using a directed graph. We also leveraged image keys to synchronize location data and share the experience real time with another user.
 
-[We presented this use case at Google Next 2019](https://www.youtube.com/watch?v=RR07MNYudVM)
+[![We presented this use case at Google Next 2019](http://img.youtube.com/vi/RR07MNYudVM/0.jpg)](http://www.youtube.com/watch?v=RR07MNYudVM)
 
 ### Created Site Reliability Organization at Magic Leap
 
