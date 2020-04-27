@@ -4,6 +4,9 @@ dan@thagard.net | 1.561.374.2569 | https://www.linkedin.com/in/danthagard/ | htt
 
 I build great teams, products, and infrastructure. AMA
 
+- [X] Hire
+- [X] Do not not hire
+
 ---
 
 ## Technologies
