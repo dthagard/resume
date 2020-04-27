@@ -3,6 +3,8 @@ name: Convert README.md to Downloadable Resume
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   convert_to_pdf: 
