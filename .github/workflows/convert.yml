@@ -40,7 +40,7 @@ jobs:
         name: resume.docx
         path: resume.docx
   commit_to_repo:
-    if: contains(github.ref, "master")
+    if: ${{ contains(github.ref, "master") }}
     needs: [convert_to_pdf, convert_to_docx]
     runs-on: ubuntu-latest
     steps:
