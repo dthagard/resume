@@ -16,5 +16,5 @@ jobs:
       uses: docker://avtodev/markdown-lint:v1
       with:
         rules: '/lint/rules/changelog.js'
-        config: '/lint/config/changelog.yml'
+        config: '/github/workspace/.changelog.yml'
         args: './README.md'
