@@ -89,3 +89,8 @@ Starting with just myself, I created an organization of about seventy engineers 
 
 - Kanban System Design (KMP I)
 - PMP Certification Training
+
+## Awards
+
+- **Super Leaper** (_December 2017, Magic Leap_)
+  - Nominated by colleagues for employee award by representing the company value of “together with love”.
