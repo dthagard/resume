@@ -53,7 +53,7 @@ Starting with just myself, I created an organization of about seventy engineers 
 - Manager, Site Reliability - 2017/03-2018/02
 - Senior Site Reliability Engineer - 2016/07-2017/03
 
-**Citrix** (_Coconut Springs, FL_)
+**Citrix** (_Coconut Creek, FL_)
 
 - DevOps Engineer - 2015/06-2016/07
 
