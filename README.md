@@ -45,9 +45,13 @@ Starting with just myself, I created an organization of about seventy engineers 
 
 ## Employment
 
+**Immertec** (_Tampa, FL_)
+
+- Vice President of Engineering - 2020/09-Present
+
 **Magic Leap** (_Dania Beach/Plantation, FL_)
 
-- Senior Director, Site Reliability & Core Engineering - 2019/10-Present
+- Senior Director, Site Reliability & Core Engineering - 2019/10-2020/09
 - Director, Site Reliability & Core Engineering - 2019/01-2019/10
 - Senior Manager, Site Reliability - 2018/02-2019/01
 - Manager, Site Reliability - 2017/03-2018/02
