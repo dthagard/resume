@@ -27,9 +27,17 @@ Architected, designed, and led a team to develop an application to visualize clo
 
 ## Employment
 
+**Namely** (_New York City, NY_)
+
+- Staff Software Engineer, Platform - 2020/11-Present
+
+**Blackstone** (_New York City, NY_)
+
+- Vice President, Platform Engineering - 2021/04-2021/11
+
 **Immertec** (_Tampa, FL_)
 
-- Vice President of Engineering - 2020/09-2021/04
+- Vice President, Engineering - 2020/09-2021/04
 
 **Magic Leap** (_Dania Beach/Plantation, FL_)
 
