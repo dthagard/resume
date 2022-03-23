@@ -29,7 +29,7 @@ Architected, designed, and led a team to develop an application to visualize clo
 
 **Namely** (_New York City, NY_)
 
-- Staff Software Engineer, Platform - 2020/11-Present
+- Staff Software Engineer, Platform - 2021/11-Present
 
 **Blackstone** (_New York City, NY_)
 
