@@ -27,9 +27,13 @@ Architected, designed, and led a team to develop an application to visualize clo
 
 ## Employment
 
+**Corellium** (_New York City, NY_)
+
+- Vice President, Engineering - 2022/06-Present
+
 **Namely** (_New York City, NY_)
 
-- Staff Software Engineer, Platform - 2021/11-Present
+- Staff Software Engineer, Platform - 2021/11-2022/06
 
 **Blackstone** (_New York City, NY_)
 
