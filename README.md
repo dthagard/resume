@@ -49,7 +49,7 @@ I build great teams, products, and infrastructure. AMA
 
 ## Employment
 
-**Corellium** (_New York City, NY_)
+**Corellium** (_Delray Beach, FL_)
 
 - Vice President, Engineering - 2022/06-Present
 
