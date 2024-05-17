@@ -2,19 +2,19 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   lint-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      
-    - name: Lint README.md
-      uses: docker://avtodev/markdown-lint:v1
-      with:
-        rules: '/lint/rules/changelog.js'
-        config: '/github/workspace/.changelog.yml'
-        args: './README.md'
+      - uses: actions/checkout@v4
+
+      - name: Lint README.md
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          rules: "/lint/rules/changelog.js"
+          config: "/github/workspace/.changelog.yml"
+          args: "./README.md"

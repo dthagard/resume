@@ -2,62 +2,60 @@ name: Convert README.md
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
-  convert_to_pdf: 
+  convert_to_pdf:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 1
-    - name: Create PDF
-      uses: Ender-events/pandoc@master
-      with:
-        args: "-s -o resume.pdf README.md"
-    - name: Upload PDF
-      uses: actions/upload-artifact@master
-      with:
-        name: resume.pdf
-        path: resume.pdf
-  convert_to_docx: 
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Create PDF
+        uses: Ender-events/pandoc@master
+        with:
+          args: "-s -o resume.pdf README.md"
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume.pdf
+          path: resume.pdf
+  convert_to_docx:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 1
-    - name: Create .docx
-      uses: docker://pandoc/core:2.9
-      with:
-        args: "-o resume.docx README.md"
-    - name: Upload .docx
-      uses: actions/upload-artifact@master
-      with:
-        name: resume.docx
-        path: resume.docx
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Create .docx
+        uses: docker://pandoc/core:latest
+        with:
+          args: "-o resume.docx README.md"
+      - name: Upload .docx
+        uses: actions/upload-artifact@master
+        with:
+          name: resume.docx
+          path: resume.docx
   commit_to_repo:
     if: contains(github.ref, 'master')
     needs: [convert_to_pdf, convert_to_docx]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
       - run: rm -rf download
       - run: mkdir -p download
-      - uses: actions/download-artifact@v1
+      - uses: actions/download-artifact@v4
         with:
-          name: resume.pdf
-          path: download/resume.pdf
-      - uses: actions/download-artifact@v1
-        with:
-          name: resume.docx
-          path: download/resume.docx
+          merge-multiple: true
+          path: download
+      - name: Display structure of downloaded files
+        run: ls -R
       - uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
