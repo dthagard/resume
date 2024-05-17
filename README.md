@@ -105,6 +105,15 @@ I build great teams, products, and infrastructure. AMA
 - Barry University, BS, Information Technology
   - Graduated Summa Cum Laude, 3.975 GPA
 
+### Certifications
+
+- Certified ScrumMaster (CSM), Jan 2024 (001610775)
+- AWS Certified SysOps Administrator – Associate, Nov 2016 (AWS-ASOA-5456)
+- AWS Certified Solutions Architect – Associate, Aug 2016 (AWS-ASA-19742)
+- CCNA, July 2004 (CSC010817750)
+- MCSA, Mar 2006 (3594126)
+- CompTia A+, Feb 2000 (E75DTT0530)
+
 ### Course Work
 
 - Kanban System Design (KMP I)
@@ -119,14 +128,6 @@ I build great teams, products, and infrastructure. AMA
 ---
 
 ## Technologies
-
-### Certifications
-
-- AWS Certified SysOps Administrator – Assoc, Nov 2016-18 (AWS-ASOA-5456)
-- AWS Certified Solutions Architect – Assoc, Aug 2016-18 (AWS-ASA-19742)
-- CCNA, July 2004-07 (CSC010817750)
-- MCSA, Mar 2006-indefinite (3594126)
-- CompTia A+, Feb 2000-indefinite (E75DTT0530)
 
 ### Languages/Scripting
 
