@@ -13,24 +13,24 @@ I build great teams, products, and infrastructure. AMA
 
 ### Engineering Organization at Corellium
 
-- Implemented requisite development processes and worked with key stakeholders to pass a SOC2 audit.
-- Scaled the engineering team to over 35 engineers across disciplines: frontend, middleware, QA, infrastructure, Android, iOS, and hardware modeling.
-- Organized application development into cross-disciplinary squads aligned with business lines and adopted a Scrum framework, reducing cycle time from over a month to under 14 days.
-- Oversaw the development and implementation of numerous engineering enhancements including feature flags, test automation, and semantic versioning.
-- Worked with Product teams to organize delivery of critical features including defining requirements gathering, development, testing, and UAT.
-- Initiated team-building and knowledge-sharing events, including an annual company hackathon, gaming competitions, and monthly company-wide demos of new features and enhancements.
+- Directed the growth and performance of Corellium’s R&D organization from Series A to acquisition (~$200M exit), scaling to 30+ engineers across multiple platforms and disciplines.
+- Built and formalized engineering processes, enabling the company to successfully pass a SOC2 audit and establishing operational rigor.
+- Reorganized development into cross-disciplinary squads aligned to business priorities, introduced a Scrum framework, and reduced cycle time from more than a month to less than two weeks.
+- Championed platform and process improvements including feature flagging, automated testing, and semantic versioning, increasing velocity and release confidence.
+- Partnered with Product and business stakeholders to define requirements, development workflows, and test/UAT practices for critical product launches.
+- Strengthened team cohesion and visibility by creating company hackathons, gaming tournaments, and monthly demos to showcase new features and enhancements.
 
 ### Engineering Organization at Immertec
 
-- Implemented foundational processes for the software development life cycle (SDLC) to pass a SOC2 audit.
-- Authored and organized internal documentation for engineering, covering operations, onboarding, product guides, and how-tos.
-- Introduced and trained the team on Kanban methodology, tracking performance metrics across multiple product lines including web, mobile, VR, and custom systems in AWS and GCP.
-- Created a health reporting dashboard for weekly executive leadership meetings to guide decision-making.
-- Established SOC2-compliant source control processes on GitLab, consolidating from GitHub and Bitbucket to reduce costs and developer friction.
-- Implemented behavior-driven development (BDD) using CucumberStudio and BrowserStack, reducing regressions and improving product quality and development speed.
-- Set up CI/CD pipelines with GitLab Runners on Kubernetes to automate deployment of development, staging, and production applications using Terraform.
-- Led hiring efforts, tripling the engineering team size and adding platform, product, and QA teams.
-- Introduced continuous improvement processes such as biweekly 1:1s, monthly retrospectives, and improvement katas.
+- Established foundational SDLC processes and partnered with leadership to complete a SOC2 audit.
+- Built a comprehensive internal documentation library for engineering, spanning onboarding resources, operational runbooks, product guides, and how-tos.
+- Introduced Kanban across multi-platform product lines (web, mobile, VR, AWS/GCP systems) and trained teams on usage; implemented performance metrics and reporting.
+- Developed a weekly executive dashboard to surface health indicators, enabling informed decision-making and prioritization.
+- Consolidated source control from GitHub and Bitbucket into SOC2-compliant GitLab, reducing costs and simplifying developer workflows.
+- Implemented behavior-driven development (BDD) with CucumberStudio and BrowserStack, decreasing regressions and improving product quality and velocity.
+- Deployed CI/CD pipelines using GitLab Runners on Kubernetes with Terraform, automating delivery of development, staging, and production environments.
+- Scaled the engineering organization, tripling headcount and adding key platform, product, and QA capabilities.
+- Established continuous improvement practices—biweekly 1:1s, monthly retrospectives, and improvement katas—to support growth, alignment, and performance.
 
 ### Site Reliability Organization at Magic Leap
 
@@ -122,6 +122,8 @@ I build great teams, products, and infrastructure. AMA
 
 ## Awards
 
+- **Core Excellence of the Year 2024** (_February 2025, Corellium_)
+  - This award is among the highest honors, recognizing an individual who inspires consistently and demonstrates exceptional performance, leadership, and commitment to the company’s goals and values.
 - **Super Leaper** (_December 2017, Magic Leap_)
   - Nominated by colleagues for employee award by representing the company value of “together with love”.
 
