@@ -107,6 +107,7 @@ I build great teams, products, and infrastructure. AMA
 
 ### Certifications
 
+- MIT xPro Designing and Building AI Products and Services, Jun 2026 (183976256)
 - AWS Certified AI Practioner, Mar 2026 (AWS05837963)
 - Certified ScrumMaster (CSM), Jan 2024 (001610775)
 - AWS Certified SysOps Administrator – Associate, Nov 2016 (AWS-ASOA-5456)
@@ -123,6 +124,8 @@ I build great teams, products, and infrastructure. AMA
 
 ## Awards
 
+- **Exemplary Assignment: Designing and Building AI Products and Services** (_June 2026, Emeritus_)
+  - Applied GAN technology to address societal challenges by evaluating sustainability and feasibility in AI product design.
 - **Core Excellence of the Year 2024** (_February 2025, Corellium_)
   - This award is among the highest honors, recognizing an individual who inspires consistently and demonstrates exceptional performance, leadership, and commitment to the company’s goals and values.
 - **Super Leaper** (_December 2017, Magic Leap_)
