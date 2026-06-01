@@ -2,100 +2,118 @@
 
 [dan@thagard.net](mailto:dan@thagard.net) | [+1-561-374-2569](tel:+15613742569) | [Linkedin](https://www.linkedin.com/in/danthagard/) | [Github](https://github.com/dthagard) | [Resume](https://github.com/dthagard/resume)
 
-I build great teams, products, and infrastructure. AMA
+Engineering executive who scaled Corellium's R&D organization from Series A to a ~$200M acquisition — growing to 30+ engineers, passing SOC2, and cutting cycle time from over a month to under two weeks. Earlier founded a 70-person organization at Magic Leap and tripled engineering headcount at Immertec. Still hands-on across Go, AWS/GCP, Terraform, and applied AI (Amazon Bedrock, LLMs, GANs).
 
-- [X] Hire
-- [X] Don't not hire
-
----
-
-## Recent Projects
-
-### Engineering Organization at Corellium
-
-- Directed the growth and performance of Corellium’s R&D organization from Series A to acquisition (~$200M exit), scaling to 30+ engineers across multiple platforms and disciplines.
-- Built and formalized engineering processes, enabling the company to successfully pass a SOC2 audit and establishing operational rigor.
-- Reorganized development into cross-disciplinary squads aligned to business priorities, introduced a Scrum framework, and reduced cycle time from more than a month to less than two weeks.
-- Championed platform and process improvements including feature flagging, automated testing, and semantic versioning, increasing velocity and release confidence.
-- Partnered with Product and business stakeholders to define requirements, development workflows, and test/UAT practices for critical product launches.
-- Strengthened team cohesion and visibility by creating company hackathons, gaming tournaments, and monthly demos to showcase new features and enhancements.
-
-### Engineering Organization at Immertec
-
-- Established foundational SDLC processes and partnered with leadership to complete a SOC2 audit.
-- Built a comprehensive internal documentation library for engineering, spanning onboarding resources, operational runbooks, product guides, and how-tos.
-- Introduced Kanban across multi-platform product lines (web, mobile, VR, AWS/GCP systems) and trained teams on usage; implemented performance metrics and reporting.
-- Developed a weekly executive dashboard to surface health indicators, enabling informed decision-making and prioritization.
-- Consolidated source control from GitHub and Bitbucket into SOC2-compliant GitLab, reducing costs and simplifying developer workflows.
-- Implemented behavior-driven development (BDD) with CucumberStudio and BrowserStack, decreasing regressions and improving product quality and velocity.
-- Deployed CI/CD pipelines using GitLab Runners on Kubernetes with Terraform, automating delivery of development, staging, and production environments.
-- Scaled the engineering organization, tripling headcount and adding key platform, product, and QA capabilities.
-- Established continuous improvement practices—biweekly 1:1s, monthly retrospectives, and improvement katas—to support growth, alignment, and performance.
-
-### Site Reliability Organization at Magic Leap
-
-- Founded a global organization of 70 engineers focusing on technology infrastructure and developer productivity.
-- Established competencies in end-user support, infrastructure engineering, observability, chaos engineering, and application delivery.
-- Introduced Kanban project management methodologies, reducing average lead times from 45 days to 14 days.
-- Automated the deployment of physical and virtual infrastructure, eliminating many bespoke manual processes.
-
-### Mixed Reality Architecture
-
-- Architected and led the development of an application to visualize cloud infrastructure using Spatial Computing (AR/MR) with the Magic Leap One.
-- Utilized Unity, C#, Terraform, Golang, Cloud Storage, and Cloud Functions to dynamically pull infrastructure from Terraform state and display it as a directed graph.
-- Leveraged image keys to synchronize location data and enable real-time shared experiences with other users.
+I build teams that ship — ask me about the hackathons.
 
 ---
 
-## Employment
+## Selected Highlights
+
+- **~$200M exit at Corellium** — directed R&D from Series A through acquisition, scaling to 30+ engineers and establishing the operational rigor to pass a SOC2 audit.
+- **Founded a 70-person organization at Magic Leap** — built a global Site Reliability & Core Engineering org spanning infrastructure, observability, chaos engineering, and developer productivity.
+- **Mixed Reality cloud architecture** — architected and led an AR/MR application visualizing live cloud infrastructure, presented at Google Cloud Next '19.
+
+---
+
+## Speaking & Writing
+
+- **Magic Leap + GCP: Mixed Reality Architecture** — Google Cloud Next '19 ([video](https://www.youtube.com/watch?v=RR07MNYudVM))
+- **Understanding Terraform and Corellium: A Perfect Match for Virtual Device Management** — Corellium Engineering Blog, Dec 2023 ([article](https://www.corellium.com/blog/understanding-terraform-and-corellium-a-perfect-match-for-virtual-device-management))
+
+---
+
+## Experience
 
 **Corellium** (_Delray Beach, FL_)
 
-- Vice President, Engineering - 2022/06-Present
+- Vice President, Engineering — Jun 2022–Present
+- Recruited by a Corellium investor to build the engineering organization post–Series A; directed its growth and performance through to a ~$200M acquisition.
+- Scaled to 30+ engineers across multiple platforms and disciplines, formalizing the engineering processes that enabled the company to pass a SOC2 audit.
+- Reorganized development into cross-disciplinary squads aligned to business priorities, introduced a Scrum framework, and reduced cycle time from more than a month to less than two weeks.
+- Championed platform and process improvements — feature flagging, automated testing, and semantic versioning — increasing velocity and release confidence; authored the published Terraform integration guide above.
+- Partnered with Product and business stakeholders to define requirements, development workflows, and test/UAT practices for critical product launches.
+- Strengthened team cohesion and visibility through company hackathons, gaming tournaments, and monthly demos showcasing new features.
 
 **Namely** (_New York City, NY_)
 
-- Staff Software Engineer, Platform - 2021/11-2022/06
+- Staff Software Engineer, Platform — 2021–2022
+- Recruited directly by the SVP of Engineering (reporting to the SVP, not the engineering directors) to solve delivery problems across organization.
+- Stood up a tiger team of senior developers driving operational improvements across the platform.
 
 **Blackstone** (_New York City, NY_)
 
-- Vice President, Platform Engineering - 2021/04-2021/11
+- Vice President, Platform Engineering — 2021
+- Managed a team of five developers across three SaaS products; recruited away by Namely's SVP of Engineering for a new challenge.
 
 **Immertec** (_Tampa, FL_)
 
-- Vice President, Engineering - 2020/09-2021/04
+- Vice President, Engineering — 2020–2021
+- Established foundational SDLC processes and partnered with leadership to complete a SOC2 audit.
+- Scaled the engineering organization, tripling headcount and adding key platform, product, and QA capabilities.
+- Introduced Kanban across multi-platform product lines (web, mobile, VR, AWS/GCP systems), implemented performance metrics and reporting, and built a weekly executive dashboard to surface health indicators.
+- Built a comprehensive internal documentation library spanning onboarding, operational runbooks, product guides, and how-tos.
+- Consolidated source control from GitHub and Bitbucket into SOC2-compliant GitLab, reducing costs and simplifying developer workflows.
+- Implemented behavior-driven development (BDD) with CucumberStudio and BrowserStack, decreasing regressions and improving quality and velocity.
+- Deployed CI/CD pipelines using GitLab Runners on Kubernetes with Terraform, automating delivery across development, staging, and production.
+- _(Role eliminated in a company-wide downsizing; recruited into the VP role at Blackstone.)_
 
 **Magic Leap** (_Dania Beach/Plantation, FL_)
 
-- Senior Director, Site Reliability & Core Engineering - 2019/10-2020/09
-- Director, Site Reliability & Core Engineering - 2019/01-2019/10
-- Senior Manager, Site Reliability - 2018/02-2019/01
-- Manager, Site Reliability - 2017/03-2018/02
-- Senior Site Reliability Engineer - 2016/07-2017/03
+- Senior Director, Site Reliability & Core Engineering — Feb 2016–Sep 2020 (progressed from Senior SRE → Manager → Senior Manager → Director → Senior Director)
+- Founded a global organization of 70 engineers focused on technology infrastructure and developer productivity.
+- Established competencies in end-user support, infrastructure engineering, observability, chaos engineering, and application delivery.
+- Introduced Kanban project management, reducing average lead times from 45 days to 14 days.
+- Automated the deployment of physical and virtual infrastructure, eliminating many bespoke manual processes.
 
 **Citrix** (_Coconut Creek, FL_)
 
-- DevOps Engineer - 2015/06-2016/07
+- DevOps Engineer — Jun 2015–Jul 2016
 
 **QQ Solutions, Inc** (_Deerfield Beach, FL_)
 
-- DevOps Team Lead - 2014/06-2015/06
-- Software Engineer - 2014/01-2014/06
+- DevOps Team Lead — Jun 2014–Jun 2015
+- Software Engineer — Jan 2014–Jun 2014
 
 **EPIS, LLC** (_Stuart, FL_)
 
-- Senior Software Developer - 2011/09-2013/12
+- Senior Software Developer — Sep 2011–Dec 2013
 
 **BenTek** (_Palm Beach Gardens, FL_)
 
-- Chief Information Officer - 2010/09-2011/09
-- Information Technology Director - 2007/03-2010/09
-- Information Technology Manager - 2006/06-2007/03
+- Chief Information Officer — Sep 2010–Sep 2011
+- Information Technology Director — Mar 2007–Sep 2010
+- Information Technology Manager — Jun 2006–Mar 2007
 
 **Florida State University** (_Tallahassee, FL_)
 
-- Online Programs & Technology Training Manager - 2004/08-2006/06
-- Systems Administrator - 2001/03-2004/08
+- Online Programs & Technology Training Manager — Aug 2004–Jun 2006
+- Systems Administrator — Mar 2001–Aug 2004
+
+---
+
+## Selected Technical Highlight
+
+### Mixed Reality Architecture (Magic Leap)
+
+- Architected and led development of an application visualizing live cloud infrastructure via Spatial Computing (AR/MR) on the Magic Leap One — using Unity, C#, Go, Terraform, Cloud Storage, and Cloud Functions to render Terraform state as a real-time directed graph, with image keys synchronizing shared multi-user experiences.
+- Presented as **Magic Leap + GCP: Mixed Reality Architecture** at Google Cloud Next '19.
+
+---
+
+## Core Technologies
+
+**Deep expertise:** AI/ML · Terraform / IaC · AWS
+
+- **AI/ML:** LLMs, GANs, deep learning, RAG, fine-tuning, prompt engineering, Amazon Bedrock, Bedrock Guardrails, Bedrock Knowledge Base, SageMaker
+- **Cloud:** AWS, GCP, Azure
+- **Platform/Infrastructure:** Kubernetes, Terraform, Docker, Istio, Knative, Vault, Ansible
+- **CI/CD & Delivery:** GitHub Actions, GitLab / GitLab Runners, Jenkins, Vercel, feature flagging, semantic versioning, monorepo
+- **Observability & Ops:** Datadog, Sentry, PagerDuty/Opsgenie
+- **Data:** PostgreSQL, MySQL, DynamoDB
+- **Languages & Scripting:** Go, Python, C#, JavaScript/Node, Bash/Zsh, SQL
+
+---
 
 ## Education
 
@@ -108,13 +126,11 @@ I build great teams, products, and infrastructure. AMA
 ### Certifications
 
 - MIT xPro Designing and Building AI Products and Services, Jun 2026 (183976256)
-- AWS Certified AI Practioner, Mar 2026 (AWS05837963)
+- AWS Certified AI Practitioner, Mar 2026 (AWS05837963)
 - Certified ScrumMaster (CSM), Jan 2024 (001610775)
 - AWS Certified SysOps Administrator – Associate, Nov 2016 (AWS-ASOA-5456)
 - AWS Certified Solutions Architect – Associate, Aug 2016 (AWS-ASA-19742)
-- CCNA, July 2004 (CSC010817750)
-- MCSA, Mar 2006 (3594126)
-- CompTia A+, Feb 2000 (E75DTT0530)
+- Earlier: MCSA, CCNA, CompTIA A+
 
 ### Course Work
 
@@ -127,18 +143,6 @@ I build great teams, products, and infrastructure. AMA
 - **Exemplary Assignment: Designing and Building AI Products and Services** (_June 2026, Emeritus_)
   - Applied GAN technology to address societal challenges by evaluating sustainability and feasibility in AI product design.
 - **Core Excellence of the Year 2024** (_February 2025, Corellium_)
-  - This award is among the highest honors, recognizing an individual who inspires consistently and demonstrates exceptional performance, leadership, and commitment to the company’s goals and values.
+  - Among the highest honors at Corellium, recognizing exceptional performance, leadership, and commitment to the company's goals and values.
 - **Super Leaper** (_December 2017, Magic Leap_)
-  - Nominated by colleagues for employee award by representing the company value of “together with love”.
-
----
-
-## Technologies
-
-### Languages/Scripting
-
-- Golang, C#, Bash/Zsh, Python, Ruby, RegEx, Javascript, Node.js, HTML, CSS, SQL
-
-### Keywords
-
-- Amazon Bedrock, Bedrock Guardrails, SageMaker, Bedrock Knowledge Base, Hypertune, Atlassian Atlas, Atlassian Compass, Vercel, Lerna, pnpm, Proxmox, Opsgenie, Azure AD, ProductBoard, Figma, Github Actions, Webpack, Jest, Drone CI, RushJS, monorepo, Terraform Enterprise, JFrog Artifactory, Notion, Codacy, Spinnaker, VSCode, GitLab Runners, Firebase, Cloud Firestore, MacStadium, CucumberStudio, BrowserStack, AppAutomate, Autopilot, Contentful, LucidChart, AWS, GCP, Azure, CI/CD, Docker, k8, Terraform, Vault, Concourse CI, Bitbucket, Ansible, Chef, Datadog, Sentry.io, Zendesk, Superset, Pingdom, Cloudcraft, Bitbucket Pipelines, Statuspage.io, Aha!, Kubernetes, Istio, Knative, StackStorm, Nexus, Github Enterprise, Gitlab, Citrix XenMobile 9/10, Citrix Netscaler / Receiver, CohesiveFT, Slack, Icinga2, PagerDuty, SumoLogic, OneBug, OSSEC, TestKitchen, Podio, Jenkins, TFS, Scalr, Icinga, CloudStack, Eucalyptus, Graylog2, Route53, SalesForce.com, Ice, RubyMine, VisualStudio 2015, Avaya IP Office 500, LastPass, VMWare ESXi 5.5, Citrix XenServer 6.0/6.5, KVM, SQL Server 2014 Std./Ent, WCF, Entity Framework, Visual Studio 2010/2012/2013, MonoDevelop, Xamarin, Atlassian Stash, Git, FortiNet, Microsoft CRM, SourceGear Vault, Windows Server 2008, Ubuntu, Joomla, LVS/Ultramonkey, EqualLogic PS4000e, EMC AX150, MD3000i, PC6248, PC6224, PC5448, Citrix XenServer, VMWare Workstation, Eclipse, Subversion, Atlassian JIRA, Atlassian Confluence, Atlassian Bamboo, Atlassian Fisheye, Atlassian Crowd, Atlassian Greenhopper, Keri, XOSoft WANSync, ProFTPD, Illustrator, Zmanda, Exchange 2007, VMWare ESX, GlassFish, Tomcat, InDesign, BitDefender, Blackberry Enterprise Server, Logmein, GoToMyPC, GoToMeeting, GoToAssist, Agile methodologies, Kanban, Scrum, SQL Server 2005, Netbeans, Liferay, Mitel, SIP, Watchguard, SonicWALL, TestTrack, SurroundSCM, Symantec BackupExec, Exchange 2000, Solaris, RHEL, CentOS, Gentoo, Windows XP, Oracle, MySQL, iptables, Cisco, Clariion CX300, BIND, Sophos, Citrix MetaFrame, Windows 2000, Symantec Ghost, Active Directory, RemotelyAnywhere, Dreamweaver, Photoshop, Flash, SQL Server 2000, SUS
+  - Nominated by colleagues for representing the company value of "together with love".
