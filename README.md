@@ -107,7 +107,6 @@ I build great teams, products, and infrastructure. AMA
 
 ### Certifications
 
-- MIT xPro Designing and Building AI Products and Services, Jun 2026 (183976256)
 - AWS Certified AI Practioner, Mar 2026 (AWS05837963)
 - Certified ScrumMaster (CSM), Jan 2024 (001610775)
 - AWS Certified SysOps Administrator – Associate, Nov 2016 (AWS-ASOA-5456)
@@ -118,6 +117,7 @@ I build great teams, products, and infrastructure. AMA
 
 ### Course Work
 
+- MIT xPro Designing and Building AI Products and Services, Jun 2026 (183976256)
 - Kanban System Design (KMP I)
 - PMP Certification Training
 - Kubernetes Certified Administrator
