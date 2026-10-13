@@ -10,9 +10,10 @@ I build teams that ship — ask me about the hackathons.
 
 ## Selected Highlights
 
-- **~$200M exit at Corellium** — directed R&D from Series A through acquisition, scaling to 30+ engineers and establishing the operational rigor to pass a SOC2 audit.
-- **Founded a 70-person organization at Magic Leap** — built a global Site Reliability & Core Engineering org spanning infrastructure, observability, chaos engineering, and developer productivity.
-- **Mixed Reality cloud architecture** — architected and led an AR/MR application visualizing live cloud infrastructure, presented at Google Cloud Next '19.
+- **~$200M exit at Corellium**: directed R&D from Series A through acquisition, scaling to 30+ engineers and establishing the operational rigor to pass a SOC2 Type 2 audit.
+- **Internal AI developer platform**: built Corellium's internal AI platform and expanded its Model Context Protocol (MCP) integration to cover every operation in the product API.
+- **Founded a 70-person organization at Magic Leap**: built a global Site Reliability & Core Engineering org spanning infrastructure, observability, chaos engineering, and developer productivity.
+- **Mixed Reality cloud architecture**: architected and led an AR/MR application visualizing live cloud infrastructure, presented at Google Cloud Next '19.
 
 ---
 
@@ -28,10 +29,15 @@ I build teams that ship — ask me about the hackathons.
 **Corellium** (_Delray Beach, FL_)
 
 - Vice President, Engineering — Jun 2022–Present
-- Recruited by a Corellium investor to build the engineering organization post–Series A; directed its growth and performance through to a ~$200M acquisition.
-- Scaled to 30+ engineers across multiple platforms and disciplines, formalizing the engineering processes that enabled the company to pass a SOC2 audit.
+- Recruited by a Corellium investor to build the engineering organization post-Series A; directed its growth and performance through to a ~$200M acquisition by Cellebrite.
+- Scaled to 30+ engineers across multiple platforms and disciplines, formalizing the engineering processes that enabled the company to pass a SOC2 Type 2 audit.
+- Built Corellium's internal AI developer platform hands-on, giving engineers governed access to large language models and company knowledge.
+- Launched a cross-team API and SDK refresh in 2026 so internal teams and customers could build on Corellium with AI tools.
+- Standardized AI-assisted development across engineering with shared, reusable agent skills and workflows.
+- Led a security remediation program that closed several hundred dependency vulnerabilities in under three weeks.
+- Replaced manual, failure-prone releases with an automated push-on-green deployment pipeline across all cloud environments.
 - Reorganized development into cross-disciplinary squads aligned to business priorities, introduced a Scrum framework, and reduced cycle time from more than a month to less than two weeks.
-- Championed platform and process improvements — feature flagging, automated testing, and semantic versioning — increasing velocity and release confidence; authored the published Terraform integration guide above.
+- Introduced feature flagging, automated testing, and semantic versioning, which increased velocity and release confidence. Authored the published Terraform integration guide above.
 - Partnered with Product and business stakeholders to define requirements, development workflows, and test/UAT practices for critical product launches.
 - Strengthened team cohesion and visibility through company hackathons, gaming tournaments, and monthly demos showcasing new features.
 
@@ -105,7 +111,7 @@ I build teams that ship — ask me about the hackathons.
 
 **Deep expertise:** AI/ML · Terraform / IaC · AWS
 
-- **AI/ML:** LLMs, GANs, deep learning, RAG, fine-tuning, prompt engineering, Amazon Bedrock, Bedrock Guardrails, Bedrock Knowledge Base, SageMaker
+- **AI/ML:** LLMs, AI agents and agentic workflows, Model Context Protocol (MCP), RAG, GANs, deep learning, fine-tuning, prompt engineering, Amazon Bedrock (Knowledge Bases, Agents, AgentCore, Guardrails), LiteLLM, Claude Code
 - **Cloud:** AWS, GCP, Azure
 - **Platform/Infrastructure:** Kubernetes, Terraform, Docker, Istio, Knative, Vault, Ansible
 - **CI/CD & Delivery:** GitHub Actions, GitLab / GitLab Runners, Jenkins, Vercel, feature flagging, semantic versioning, monorepo
